@@ -58,6 +58,20 @@ Giftoraa.pk is a comprehensive online e-commerce platform designed to make the g
 ### Home Page
 ![Home](images/home.jpeg)
 
+### Login Page
+![Cart](images/login2.jpg)
+
+### Login (Email Validation)
+![Cart](images/login4.jpg)
+
+### Login (Password Validation)
+![Cart](images/login3,jpg)
+
+### After Login 
+![Cart](images/cart.png)
+
+### Login Page
+![Cart](images/cart.png)
 
 ### Product Page
 ![Product](images/product.png)
