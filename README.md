@@ -25,6 +25,26 @@ Giftoraa.pk is a comprehensive online e-commerce platform designed to make the g
 - Category Management
 - Order Management
 
+## Key Modules
+
+### Authentication Module
+- Secure registration and login functionality for users and administrators.
+
+### Product Catalog
+- Categorized display of gifts with search and filtering options for easy product discovery.
+
+### AI Gift Finder
+- Intelligent recommendation system that suggests suitable gifts based on user preferences, occasions, and recipient relationships.
+
+### Shopping Cart & Wishlist
+- Enables users to save products for future purchases or proceed directly to checkout.
+
+### Checkout & Order Processing
+- Handles order placement, customer information, and shipping details securely.
+
+### Admin Dashboard
+- Centralized management panel for products, categories, users, and order status updates.
+- 
 ## Technologies Used
 
 - **Backend:** PHP (Laravel Framework) – Chosen for its robust MVC architecture, security, and scalability.
