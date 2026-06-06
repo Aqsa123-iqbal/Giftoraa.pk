@@ -11,13 +11,25 @@ Giftoraa.pk is a comprehensive online e-commerce platform designed to make the g
 
 Key Features
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+## Key Features
+
+- User Registration and Login
+- Secure Authentication System
+- Browse Gifts by Categories
+- Product Search Functionality
+- Product Details Page
+- Add to Cart
+- Wishlist Management
+- Online Order Placement
+- Order Tracking
+- User Profile Management
+- Responsive Design for Mobile and Desktop
+- Admin Dashboard
+- Product Management (Add, Edit, Delete Products)
+- Category Management
+- Order Management
+- Customer Management
+- Contact Us Page
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
