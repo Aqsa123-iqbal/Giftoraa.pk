@@ -9,7 +9,7 @@
 
 Giftoraa.pk is a comprehensive online e-commerce platform designed to make the gift-giving process effortless and personal. The primary goal of this website is to provide a user-friendly interface where customers can discover suitable gifts for their loved ones, manage their wishlists, and purchase items with ease. The platform features an intelligent "AI Gift Finder" module that provides personalized recommendations based on the user's specific input, such as the recipient and the occasion.
 
-## Key Features
+Key Features
 
 - User Registration and Login
 - Secure Authentication System
