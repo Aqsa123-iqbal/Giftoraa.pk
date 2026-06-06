@@ -58,6 +58,7 @@ Giftoraa.pk is a comprehensive online e-commerce platform designed to make the g
 ### Home Page
 ![Home](images/home.jpeg)
 
+
 ### Product Page
 ![Product](images/product.png)
 
@@ -65,5 +66,5 @@ Giftoraa.pk is a comprehensive online e-commerce platform designed to make the g
 ![Cart](images/cart.png)
 
 ### Admin Dashboard
-![Admin](images/admin.png)
+![Admin](images/admin.jpg)
 
