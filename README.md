@@ -53,3 +53,17 @@ Giftoraa.pk is a comprehensive online e-commerce platform designed to make the g
 - **Development Tools:** Visual Studio Code (IDE), XAMPP (Local Development Server), and Composer (Dependency Manager).
 - **Version Control:** Git and GitHub – Used for source code management and version tracking.
 
+## Screenshots
+
+### Home Page
+![Home](images/home.png)
+
+### Product Page
+![Product](images/product.png)
+
+### Cart
+![Cart](images/cart.png)
+
+### Admin Dashboard
+![Admin](images/admin.png)
+
