@@ -5,9 +5,11 @@
 
 </p>
 
-## About Laravel
+Online Gift Shope: Giftoraa.Pk
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Giftoraa.pk is a comprehensive online e-commerce platform designed to make the gift-giving process effortless and personal. The primary goal of this website is to provide a user-friendly interface where customers can discover suitable gifts for their loved ones, manage their wishlists, and purchase items with ease. The platform features an intelligent "AI Gift Finder" module that provides personalized recommendations based on the user's specific input, such as the recipient and the occasion.
+
+Key Features
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - [Powerful dependency injection container](https://laravel.com/docs/container).
